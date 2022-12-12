@@ -46,7 +46,7 @@ You can deploy this project using:
 
 - GitHub: [@djo1975](https://github.com/djo1975)
 
-I jused project from yodit93-https://github.com/yodit93
+I used project from yodit93-https://github.com/yodit93
 ## ?? :raised_hand: :raised_hand: Contributions
 
 Contributions, issues, and feature requests are welcome!
